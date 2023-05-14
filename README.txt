@@ -1,1 +1,2 @@
-Alteração feita na linha 1 e 2.
+Alteração feita na mesma hora por outro usuário.
+As 12:25.
