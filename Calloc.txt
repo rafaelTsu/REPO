@@ -1,0 +1,1 @@
+Para usar calloc basta usar ponteiro recebe calloc
